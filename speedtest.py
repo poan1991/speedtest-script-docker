@@ -43,3 +43,4 @@ class speedtest_bot():
 
 if __name__ == "__main__":
     oo = speedtest_bot()
+    oo.check_internet_speed()
